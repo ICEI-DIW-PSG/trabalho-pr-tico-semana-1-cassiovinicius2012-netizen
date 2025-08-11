@@ -6,10 +6,10 @@ Nome: Cássio Vinicius de Barros Costa <br>
 Matricula: 904546
 
 ## Tela de inspeção com navegador
-!<img src="Captura de Tela (9).png"
+!<img src="Captura de Tela (9).png">
 
 ## Tela de projeto no Replit
-!<img src= "Captura de Tela (10).png"
+!<img src= "Captura de Tela (10).png">
 
 ## Orientações sobre Linguagem MarkDown
 
